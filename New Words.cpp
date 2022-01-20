@@ -1,4 +1,4 @@
-﻿//Link Problem==>https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/S
+﻿//Link Problem==>https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/U
 #include <iostream>
 #include<iomanip>
 #include<cmath>
